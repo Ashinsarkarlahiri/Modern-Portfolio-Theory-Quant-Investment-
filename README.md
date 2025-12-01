@@ -29,4 +29,4 @@ We identify the portfolio with the maximum return and the corresponding risk. Th
 ## Finding Efficient Portfolio Weights
 We create a function to return the weights of portfolios whose returns are greater than or equal to the maximum return on the Efficient Frontier. These weights represent efficient portfolios that offer high returns for the level of risk.
 
-### This project helps investors make data-driven decisions about their portfolios by identifying the best combination of assets to maximize returns while managing risk.
+- ### This project helps investors make data-driven decisions about their portfolios by identifying the best combination of assets to maximize returns while managing risk.
